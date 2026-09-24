@@ -17,4 +17,15 @@ public class Operacion {
         return suma;
     }
 
+    public int suma2(){
+        int tres=3;
+        int miltres=1003;
+
+        int suma=0;
+
+        suma=tres+miltres;
+
+        return suma;
+    }
+
 }
